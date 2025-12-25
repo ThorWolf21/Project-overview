@@ -7,7 +7,7 @@ A collection of my hardware and software projects.
 ### [TWPad](https://github.com/ThorWolf21/TWPad)
 A compact 7-key macropad with dual rotary encoders and RGB lighting. Features custom PCB design with per-key LEDs and ambient lighting for a premium look and feel.
 
-**Status:** ✅ Complete & Available  
+**Status:** 🔧 In Development  
 **Features:**
 - 7 Cherry MX hotswap keys
 - 2 EC11 rotary encoders (volume control + layer switching)
@@ -28,7 +28,7 @@ A compact 7-key macropad with dual rotary encoders and RGB lighting. Features cu
 ### [VisitMoi](https://github.com/ThorWolf21/VisitMoi)
 A tourist information website for Moi, featuring local restaurants, attractions, and hotels. Built with responsive design for easy navigation on any device.
 
-**Status:** ✅ Complete  
+**Status:** 🔧 In Development  
 **Features:**
 - Responsive HTML5 design
 - Tourist attraction listings
@@ -37,4 +37,3 @@ A tourist information website for Moi, featuring local restaurants, attractions,
 
 **Tech Stack:** HTML5, CSS/SCSS, JavaScript, jQuery  
 **License:** MIT
-
