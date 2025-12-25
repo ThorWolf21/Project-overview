@@ -23,14 +23,20 @@ A compact 7-key macropad with dual rotary encoders and RGB lighting. Features cu
 
 ---
 
-### Upcoming Projects
-- Ergo split keyboard *(planned)*
-- Custom numpad *(in design)*
+## 💻 Web Development
 
----
+### [VisitMoi](https://github.com/ThorWolf21/VisitMoi)
+A tourist information website for Moi, featuring local restaurants, attractions, and hotels. Built with responsive design for easy navigation on any device.
 
-## 💻 Other Projects
-*Coming soon*
+**Status:** ✅ Complete  
+**Features:**
+- Responsive HTML5 design
+- Tourist attraction listings
+- Restaurant and hotel information
+- Clean, modern UI with Solid State template
+
+**Tech Stack:** HTML5, CSS/SCSS, JavaScript, jQuery  
+**License:** MIT
 
 ---
 
