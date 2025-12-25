@@ -1,12 +1,28 @@
-# Project-overview
-This is a good place to go to see what i have made quickly
+# Project Overview
 
-## Macropads
+A collection of my hardware and software projects.
 
+## 🎹 Keyboards & Macropads
 
+### [TWPad](https://github.com/ThorWolf21/TWPad)
+[Add a brief description of what TWPad is - number of keys, what you designed it for, key features]
 
-## Keyboards
+**Status:** ✅ Complete  
+**Features:** [List main features]  
+**Tech Stack:** [QMK? Custom PCB? What microcontroller?]
 
-## Websites
+---
 
-## Other
+### Upcoming Projects
+- Ergo split keyboard *(planned)*
+- Custom numpad *(in design)*
+
+---
+
+## 💻 Other Projects
+*Coming soon*
+
+---
+
+## 📬 Contact
+[Your preferred contact method if you're selling these]
