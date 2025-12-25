@@ -38,7 +38,3 @@ A tourist information website for Moi, featuring local restaurants, attractions,
 **Tech Stack:** HTML5, CSS/SCSS, JavaScript, jQuery  
 **License:** MIT
 
----
-
-## 📬 Contact
-[Add your preferred contact method or remove this section]
